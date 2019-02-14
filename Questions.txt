@@ -1,0 +1,20 @@
+
+ What language provides the basic structure for pages on the web?
+  A.CSS
+    CSS provides information on how to display the elements provided by the HTML.
+      https://www.w3schools.com/css/css_intro.asp
+  B.HTML
+    The answer is HTML because it is the language that builds the structure of the pages.
+      https://www.w3schools.com/html/html_intro.asp
+  C.JavaScript
+    Javascript is a programming language used mainly for websites.
+      https://www.w3schools.com/js/js_intro.asp
+  D.Java
+    Java is a programming language used mainly to make applications.
+      https://www.w3schools.com/java/java_intro.asp
+      
+      
+HTML is a computer language but NOT a __________ language (Javascript, Python and Rubyare).
+  Programming
+    https://stackoverflow.com/questions/145176/is-html-considered-a-programming-language
+     https://ischool.syr.edu/infospace/2012/04/05/why-html-is-not-a-programming-language/
